@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on Mobile app dev.
 - 📫 How to reach me avinindrasoma@gmail.com
+- 💻 Editor of choice is Android Studio & Microsoft Visual Studio Code.
 
 <!---
 avinIndrasoma/avinIndrasoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
