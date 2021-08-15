@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Mobile app dev.
 - 📫 How to reach me avinindrasoma@gmail.com
 - 💻 Editor of choice is Android Studio & Microsoft Visual Studio Code.
-- ![image](https://user-images.githubusercontent.com/66766682/129475479-d2613239-01ce-4100-9afd-de4e4f2715c4.png)
 
 
 
