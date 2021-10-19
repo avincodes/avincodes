@@ -58,5 +58,11 @@ src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-
+<div align="center">
+<h2 align="centre">Visitor Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{avinIndrasoma}/count.svg" /></p> 
+<br>
+</div>
+</p>
+<hr>
 <br>
