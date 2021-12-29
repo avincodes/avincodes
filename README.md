@@ -70,7 +70,7 @@ src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1)
  
 </p>
 
-![Anirudh's github activity graph](https://activity-graph.herokuapp.com/graph?username=avinIndrasoma&theme=github)
+![Avin's github activity graph](https://activity-graph.herokuapp.com/graph?username=avinIndrasoma&theme=github)
 &theme=tokyonight" />
   
  
