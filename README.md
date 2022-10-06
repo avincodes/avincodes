@@ -17,13 +17,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on A non profit app for the community...
+- 🔭 I’m currently working on a new portfolio site...
 
-- 🌱 I’m currently learning C#, Python. 
+- 🌱 I’m currently learning Python. 
 
-- 👯 I’m looking to collaborate on Mobile App Dev. 
+- 👯 I’m looking to collaborate on Web App Development. 
 
-- 💬 Talk to me about Mobile app dev and Ethical Hacking 
+- 💬 Talk to me about web-dev and mind blowing sites! 🤯
   
 - 📫 Contact me via hello@avinhere.me
 
