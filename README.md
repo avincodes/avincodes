@@ -53,6 +53,10 @@ src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1)
 
 [![@avin's Holopin board](https://holopin.io/api/user/board?user=avin)](https://holopin.io/@avin)
 
+<h2> What I'm Listening to Right Now </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6yurjrwd1ow722bilrg5vvn8z&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6yurjrwd1ow722bilrg5vvn8z&redirect=true)
+
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '40px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
